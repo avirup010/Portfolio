@@ -24,6 +24,7 @@ This portfolio highlights my work in coding and software development. It serves 
 Feel free to reach out if you have any questions or would like to collaborate!
 
 - Email: avirupghosh010@gmail.com
+
 -LinkedIn: [[Avirup]](https://www.linkedin.com/in/avirup-ghosh-thebetterone)
 
 If you like the website drop a follow and leave a star!
