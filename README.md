@@ -16,6 +16,7 @@ This portfolio highlights my work in coding and software development. It serves 
 
 - HTML, CSS, JavaScript
 - React.js
+- three.js
 - Tailwind CSS
 - Vercel for deployment
 
